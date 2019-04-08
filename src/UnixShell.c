@@ -1,6 +1,5 @@
 /*===========================================================================
 Authors: Patrick Crawford
-         David King
 For: Operating Systems 5129/6029
 Date last modified: November 29, 2016
 Project: Unix shell with history feature
